@@ -10,15 +10,15 @@ var filename = "";
 var content = "";
 
 var instruction = () => {
-   console.log("\n Enter 1 to create  Directory ..");
-   console.log("\n Enter 2 to remove Directory ..");
-   console.log("\n Enter 3 to write in file..");
-   console.log("\n Enter 4 to read a file..");
-   console.log("\n Enter 5 to delete a text file..");
-   console.log("\n Enter 6 to Append Data to file..");
+   console.log("\n Enter 1 to create  Directory");
+   console.log("\n Enter 2 to remove Directory");
+   console.log("\n Enter 3 to write in file");
+   console.log("\n Enter 4 to read a file");
+   console.log("\n Enter 5 to delete a text file");
+   console.log("\n Enter 6 to Append Data to file");
    console.log("\n Enter 7 to Update or Replace file with new data");
-   console.log("\n Enter 8 to rename a text file..");
-   console.log("\n Enter 9 to exit");
+   console.log("\n Enter 8 to rename a text fil");
+   console.log("\n Enter 9 for exit");
 };
 
 var start = () => {
