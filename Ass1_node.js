@@ -16,8 +16,8 @@ var instruction = () => {
    console.log("\n Enter 4 to read a file");
    console.log("\n Enter 5 to delete a text file");
    console.log("\n Enter 6 to Append Data to file");
-   console.log("\n Enter 7 to Update or Replace file with new data");
-   console.log("\n Enter 8 to rename a text fil");
+   console.log("\n Enter 7 to Update or replace file with data");
+   console.log("\n to rename a file enter 8");
    console.log("\n Enter 9 for exit");
 };
 
